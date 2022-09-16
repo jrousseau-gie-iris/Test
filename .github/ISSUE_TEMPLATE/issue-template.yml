@@ -17,6 +17,13 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
+  - type: date
+    id: date
+    attributes:
+      label: Date
+      description: Date de création
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
