@@ -1,2 +1,0 @@
-- [ ] Date de début dev (DD/MM/YYYY) :
-- [ ] Si Hotfix, lien vers la PR ayant déclenché le bug :
